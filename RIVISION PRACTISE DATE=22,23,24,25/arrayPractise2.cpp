@@ -13,6 +13,6 @@ int main()
             secondmax=array[i];
         }
     }
-    cout<<"second max is:"<<secondmax;
+    cout<<"second max value is:"<<secondmax;
     return 0;
 }
